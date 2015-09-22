@@ -1,2 +1,2 @@
 # portfolio
-bootstrap code for personal portfolio
+This is the bootstrap code for my personal portfolio (kristensheppard.com)
